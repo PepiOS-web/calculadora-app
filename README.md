@@ -21,8 +21,8 @@ Este proyecto forma parte de mi portafolio de aprendizaje y práctica de interfa
 
 ## 🖼️ Capturas de pantalla
 
-*<img width="338" height="462" alt="image" src="https://github.com/user-attachments/assets/c508fabc-419f-4437-a3b1-4111ce07eec3" />
-*
+<img width="338" height="462" alt="image" src="https://github.com/user-attachments/assets/c508fabc-419f-4437-a3b1-4111ce07eec3" />
+
 
 ---
 
