@@ -39,5 +39,5 @@ Este proyecto forma parte de mi portafolio de aprendizaje y práctica de interfa
 ### 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/USERNAME/calculadora-app.git
+git clone https://github.com/PepiOS-web/calculadora-app.git
 cd calculadora-app
