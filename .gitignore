@@ -1,0 +1,50 @@
+# ============================
+# Python
+# ============================
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ============================
+# Entornos virtuales
+# ============================
+
+venv/
+env/
+.venv/
+.env/
+
+# ============================
+# PyInstaller
+# ============================
+
+# Carpetas generadas
+build/
+dist/
+
+# Archivos de configuración generados
+*.spec
+
+# Ejecutables
+*.exe
+
+# ============================
+# IDEs / Editores
+# ============================
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# ============================
+# Otros
+# ============================
+
+.DS_Store
+Thumbs.db
